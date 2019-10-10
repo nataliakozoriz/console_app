@@ -2,7 +2,7 @@
 Console HTTP app
 Use rake to run program.
 
-rake            # Takes urls, parses them, sending jsons to clases, and creating classes
+rake              # Takes urls, parses them, sending jsons to clases, and creating classes
 
 rake user_run     # Runs user statistics and exports it to pdf
 
