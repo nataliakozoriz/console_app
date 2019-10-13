@@ -1,5 +1,5 @@
 # console_app
-Console HTTP app
+Console HTTP app.
 Use rake to run program.
 
 rake              # Takes urls, parses them, sending jsons to clases, and creating classes
