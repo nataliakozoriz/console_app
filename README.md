@@ -1,5 +1,5 @@
 # console_app
-Console HTTP app.
+Console HTTP app. Test JSONs were taken here: https://jsonplaceholder.typicode.com/
 Use rake to run program.
 
 rake              # Takes urls, parses them, sending jsons to clases, and creating classes
