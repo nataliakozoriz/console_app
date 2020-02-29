@@ -8,7 +8,7 @@ GEM
     prawn (2.2.2)
       pdf-core (~> 0.7.0)
       ttfunk (~> 1.5)
-    rake (11.3.0)
+    rake (12.3.3)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
       rspec-expectations (~> 3.8.0)
@@ -34,7 +34,7 @@ PLATFORMS
 
 DEPENDENCIES
   prawn (~> 2.2, >= 2.2.2)!
-  rake (~> 11.2, >= 11.2.2)!
+  rake (~> 12.3)!
   rspec!
   simplecov!
 
